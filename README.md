@@ -24,5 +24,5 @@ Here are some ideas to get you started:
  |_| |_|\___|_|_|\___/ \_/\_/ \___/|_|  |_|\__,_|
  
 ```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=74LS73&layout=compact&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=74LS73&theme=algolia&count_private=true&hide=stars,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thatwlp&layout=compact&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Thatwlp&theme=algolia&count_private=true&hide=stars,prs)](https://github.com/anuraghazra/github-readme-stats)
