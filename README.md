@@ -25,4 +25,4 @@ Here are some ideas to get you started:
  
 ```
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlpi&layout=compact&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wlpi&theme=algolia&count_private=true&hide=stars,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wlpi&theme=algolia&count_private=true&show_icons=true&hide=stars,prs)](https://github.com/anuraghazra/github-readme-stats)
