@@ -1,7 +1,7 @@
-### Hi is wlpi 👋
+### Hi is wlp 👋
 
 <!--
-**Thatwlp/Thatwlp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**polarLeft/polarLeft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -24,5 +24,5 @@ Here are some ideas to get you started:
  |_| |_|\___|_|_|\___/ \_/\_/ \___/|_|  |_|\__,_|
  
 ```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlpi&layout=compact&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wlpi&theme=algolia&count_private=true&show_icons=true&hide=stars,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polarLeft&layout=compact&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=polarLeft&theme=algolia&count_private=true&show_icons=true&hide=stars,prs)](https://github.com/anuraghazra/github-readme-stats)
