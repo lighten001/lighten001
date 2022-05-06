@@ -22,7 +22,8 @@ Here are some ideas to get you started:
  | |_| |/ _ \ | |/ _ \ \ /\ / / _ \| '__| |/ _` |
  |  _  |  __/ | | (_) \ V  V / (_) | |  | | (_| |
  |_| |_|\___|_|_|\___/ \_/\_/ \___/|_|  |_|\__,_|
- 
+
 ```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polarLeft&layout=compact&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=lighten&layout=compact&theme=tokyonight&langs_count=8&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=polarLeft&theme=algolia&count_private=true&show_icons=true&hide=stars,prs)](https://github.com/anuraghazra/github-readme-stats)
